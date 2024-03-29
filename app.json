@@ -1,8 +1,8 @@
 {
-  "name":"DEXTER-V1-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":"𝐶𝑌𝐵𝛯𝑅 𝑇𝛨𝛯𝛯𝛫𝑆𝛨𝛥𝛮𝛥 𝛭𝐷",
+  "description":"An easy and simple WhatsApp bot developed by 🅲🆈🅱🅴🆁 🆇 🆃🅷🅴🅴🅺🅷🅰🅽🅰",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/57c3083b60b2bea6ec132.jpg",
+  "logo":"https://telegra.ph/file/8cea7920bcabd9863ef42.jpg",
   "repository":"https://github.com/Purnageethanajana/DEXTER-V1-MD/",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"DEXTER-V1-MD",
+      "value":"𝐶𝑌𝐵𝛯𝑅 𝑇𝛨𝛯𝛯𝛫𝑆𝛨𝛥𝛮𝛥 𝛭𝐷",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"📌 Dont change ",
-      "value":"https://telegra.ph/file/e716c8220c20e3845f2cf.mp4",
+      "value":"https://telegra.ph/file/d04a0d6b8afd636adfbc8.mp4",
       "required":false
        
      },
@@ -73,15 +73,15 @@
     {
     
     "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
-    "required": false,
-    "value": "DEXTER"
+    "required": true,
+    "value": "𝐶𝑌𝐵𝛯𝑅 𝑇𝛨𝛯𝛯𝛫𝑆𝛨𝛥𝛮𝛥 𝛭𝐷"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
-    "required":false,
-    "value": "94789958225"
+    "required":true,
+    "value": "94753335072"
   },
     "WARN_COUNT":
   {
@@ -97,8 +97,8 @@
   },
   "PRESENCE":{
     "description":"📌 ALWAYS ONLINE 1 /📌 TYPING 2 /📌 RECORDING AUDIO.... 3🌟 ඔයාට ඔන අංකය type කරන්න 🌟",
-    "value":"",
-    "required": false
+    "value":"2",
+    "required": true
   }  
   },
  
